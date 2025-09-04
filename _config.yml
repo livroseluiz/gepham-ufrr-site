@@ -1,3 +1,2 @@
-# Exclui a pasta 'assets' do processamento do Jekyll
 exclude:
   - assets/
